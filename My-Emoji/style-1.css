@@ -1,0 +1,72 @@
+
+.emoji{
+    width: 600px;
+    height: 600px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: fixed;
+    border: 2px solid black;
+    display: flex;
+}
+
+.eye-1{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-top: 150px;
+    margin-left: 80px;
+    position: fixed;
+}
+
+.inner-eye-1{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+    border-top: 10px solid;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.eye-2{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-top: 150px;
+    margin-left: 400px;
+    position: fixed;
+}
+
+.inner-eye-2{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+    border-top: 10px solid;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.smile{
+    width: 280px;
+    height: 130px;
+    background-color: red;
+    margin-top: 380px;
+    margin-left: 150px;
+    border-bottom-left-radius: 140px;
+    border-bottom-right-radius: 140px;
+    
+}
+
+.teeth{
+    width:280px;
+    height: 140px;
+    background-color: yellow;
+    margin-top: -70px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
